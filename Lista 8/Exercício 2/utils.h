@@ -1,6 +1,6 @@
 #ifndef __UTILS__
 #define __UTILS__
-#define N 3
+#define N 10
 #include <stdio.h>
 
 
